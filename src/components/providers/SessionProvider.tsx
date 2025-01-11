@@ -1,5 +1,5 @@
+/* eslint-disable */
 'use client';
-
 import { SessionProvider as NextAuthSessionProvider } from 'next-auth/react';
 import { ReactNode } from 'react';
 

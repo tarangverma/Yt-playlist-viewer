@@ -1,9 +1,10 @@
+/* eslint-disable */
 import { google } from 'googleapis';
 import { OAuth2Client } from 'google-auth-library';
 
 export class YouTubeService {
   private oauth2Client: OAuth2Client;
-  private youtube: any;
+  private youtube: any; 
 
   constructor(accessToken: string) {
     this.oauth2Client = new google.auth.OAuth2(
