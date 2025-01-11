@@ -34,3 +34,14 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+## Example 
+### Step 1- SignIn using google account 
+![Screenshot (1254)](https://github.com/user-attachments/assets/2f6b2c0e-cc90-41e5-9e7c-d45bca4db7bc)
+### Step 2- Choose your Account which has you youtube playerlist 
+![Screenshot (1255)](https://github.com/user-attachments/assets/b3b9743c-d978-4457-84c6-664c809a43d0)
+### Step 3- View your playerlist
+![Screenshot (1256)](https://github.com/user-attachments/assets/43c214d0-7b44-45e8-83a5-84406bcce670)
+
+
+
